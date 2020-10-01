@@ -60,7 +60,8 @@
     text-align: center;
     height: 100%;
 }
-/* ">" means all the children(div) elements */
+
+/* ">" means including all the direct child(div) elements */
 .flex-items > div {
     padding: 20px;
 }
